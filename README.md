@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome to **Quiz Mania**, an engaging quiz game website designed to test your knowledge across more than 10+ Computer Science topics. Built with modern web technologies, Quiz Mania offers an interactive and dynamic user experience, making learning and testing your knowledge fun and exciting.
+Welcome to **Quiz Mania**, an engaging quiz game website designed to test your knowledge across more than 10 Computer Science topics. Built with modern web technologies, Quiz Mania offers an interactive and dynamic user experience, making learning and testing your knowledge fun and exciting.
 
 <img src="/assets/img/image1.jpg" alt="Project Photo">
 
